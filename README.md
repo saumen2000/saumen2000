@@ -1,4 +1,4 @@
-### ✨Namaste Duniya✨ ✨Hello World✨ 👋
+### ✨Namaste Duniya✨ ✨Hello World✨ 
 ###            ✨I'm Saumen Das✨
 
 Here are some ideas to get you started:
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/sdj19036
 - 😄 Pronouns: Soumen (He/His)
 - ⚡ Fun fact: I spend almost to learn new technologies.
--->
