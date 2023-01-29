@@ -1,7 +1,7 @@
 ### ✨Namaste Duniya✨ ✨Hello World✨ 
 ###            ✨I'm Saumen Das✨
 
-Here are some ideas to get you started:
+About Me 😄:
 
 - 🔭 I’m currently studing front-end technologies.
 - 🌱 I’m currently learning HTML,CSS,JavaScript,React,Redux,Saas.
