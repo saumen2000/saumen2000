@@ -1,4 +1,5 @@
-<h1 align="center">Namaste Duniya 👋, I'm Saumen Das</h1>
+<h1 align="center">Namaste Duniya 👋</h1>
+<h1 align="center">I'm Saumen Das </h1>
 <h3 align="center">A passionate Web Development and Frontend Technologies</h3>
 
 <img align = "right" alt="Coding" width = "400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
