@@ -1,4 +1,4 @@
-<h1 align="center">Namaste Duniya 👋</h1>
+<h1 align="center">Namaste Duniya 🙏 👋</h1>
 <h1 align="center">I'm Saumen Das </h1>
 <h3 align="center">A passionate Web Development and Frontend Technologies</h3>
 
